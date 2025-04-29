@@ -1,0 +1,13 @@
+com/taller/WorkshopAdministratorApplication.class
+com/taller/repository/ClienteRepository.class
+com/taller/repository/OrdenTrabajoRepository.class
+com/taller/model/Servicio.class
+com/taller/repository/VehiculoRepository.class
+com/taller/controller/ClienteController.class
+com/taller/controller/OrdenTrabajoController.class
+com/taller/controller/VehiculoController.class
+com/taller/model/Vehiculo.class
+com/taller/model/OrdenTrabajo.class
+com/taller/controller/ServicioController.class
+com/taller/repository/ServicioRepository.class
+com/taller/model/Cliente.class
